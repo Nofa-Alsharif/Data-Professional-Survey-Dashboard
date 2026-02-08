@@ -18,6 +18,7 @@ https://youtu.be/pixlHHe_lNQ?si=fJr9Qgmzebl-Kggx
 - `Data_Professional_Survey.pbix` — Power BI dashboard file  
 - `dataset.xlsx` — Survey dataset  
 - `README.md` — Project documentation
+- `dashboard.png` — Dashboard Preview
 
 ## 💡 Key Insights
 - Most respondents are from the United States.
@@ -26,5 +27,6 @@ https://youtu.be/pixlHHe_lNQ?si=fJr9Qgmzebl-Kggx
 - Salary satisfaction is lower than work-life balance satisfaction.
 
 ## 📸 Dashboard Preview
+![Dashboard Preview](dashboard.png)
 
 
