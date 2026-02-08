@@ -15,10 +15,11 @@ https://youtu.be/pixlHHe_lNQ?si=fJr9Qgmzebl-Kggx
 - Build a professional and interactive Power BI dashboard.
 
 ## 📂 Project Files
-- `Data_Professional_Survey.pbix` — Power BI dashboard file  
-- `dataset.xlsx` — Survey dataset  
+- `Data_Professional_Survey.pbix` — Power BI dashboard file
 - `README.md` — Project documentation
-- `dashboard.png` — Dashboard Preview
+- `dashboard.png` — Dashboard Preview 
+- `dataset.xlsx` — Survey dataset  
+
 
 ## 💡 Key Insights
 - Most respondents are from the United States.
