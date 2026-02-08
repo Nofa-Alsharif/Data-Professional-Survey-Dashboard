@@ -16,7 +16,7 @@ https://youtu.be/pixlHHe_lNQ?si=fJr9Qgmzebl-Kggx
 
 ## 📂 Project Files
 - `Data_Professional_Survey.pbix` — Power BI dashboard file  
-- `dataset.csv` — Survey dataset  
+- `dataset.xlsx` — Survey dataset  
 - `README.md` — Project documentation
 
 ## 💡 Key Insights
